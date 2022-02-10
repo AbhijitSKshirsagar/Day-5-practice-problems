@@ -1,9 +1,8 @@
-package com.leap_year;
+package com.Bridge_Day_5;
 
 import java.util.Scanner;
 
 public class Leap_Year {
-
 	public static void main(String[] args) {
 		System.out.println("enter your year::");
 			 	
@@ -39,4 +38,6 @@ public class Leap_Year {
 					System.out.println("Invalid.....");
 				}
 			}
-}
+
+		}
+
